@@ -1,0 +1,23 @@
+#tjfc-block {
+	border-bottom: 1px solid #eee;
+	overflow: hidden;
+}
+
+.tjfc-label {
+	padding: 20px 0;
+	display: inline;
+	float: left;
+	margin-right: 5%;
+	width: 25%;
+}
+
+.tjfc-label .description {
+	color: #999;
+}
+
+.tjfc-input {
+	padding: 25px 0;
+	display: inline;
+	float: right;
+	width: 70%;
+}
