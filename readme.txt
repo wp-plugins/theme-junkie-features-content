@@ -1,5 +1,5 @@
 === Theme Junkie Features Content ===
-Contributors: themejunkie, satrya
+Contributors: themejunkie
 Tags: feature, post type, custom post type
 Requires at least: 3.6
 Tested up to: 3.9.1
